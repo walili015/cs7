@@ -3,13 +3,13 @@
     "adNetwork": "applovin",
     "admobBanner": "",
     "admobInterstitial": "",
-    "AdmobNative": "ca-app-pub-3940256099942544/2247696110",
-    "applovinBanner": "ef3aae367af3f19f",
-    "applovinInterstitial": "f6d8932611cb12df",
-    "ApplovinNative": "3bda64f7016f3bda",
+    "AdmobNative": "",
+    "applovinBanner": "999999999999999Banner",
+    "applovinInterstitial": "88888888888Inter",
+    "ApplovinNative": "77777777777777Native",
     "unityGameId": "",
     "testMode": false,
-    "unityBanner": "Banner_Android",
-    "unityInterstitial": "Interstitial_Android"
+    "unityBanner": "",
+    "unityInterstitial": ""
   }
 }
